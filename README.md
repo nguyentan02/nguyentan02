@@ -1,16 +1,61 @@
-### Hi there 👋
+🌉 Aspiring Bridge Engineer
+Hi 👋, I'm NGUYEN DUY TAN
+A passionate web developer from Viet Nam
+🚀 What I'm Doing
 
-<!--
-**nguyentan02/nguyentan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning Backend Development
 
-Here are some ideas to get you started:
+💬 Ask me about Java / Spring Boot / PostgreSQL / Vue / Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Personal website: your-website.com
+
+📄 My CV: EN
+ / VI
+
+⚡ Fun fact: I think I am funny
+
+📫 How to reach me:
+
+
+
+
+
+
+
+
+🧰 Languages, Tools I Know
+🎨 Front-End
+		
+
+	
+	
+
+
+	
+	
+
+
+	
+	
+
+
+	
+	
+🔧 Back-End
+			
+
+	
+	
+	
+
+
+	
+	
+	
+🛠️ Tools & Others
+		
+
+	
+	
+📊 Github Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" /> </p>
